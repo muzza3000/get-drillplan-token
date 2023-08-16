@@ -1,0 +1,24 @@
+{
+  "name": "get-drillplan-token",
+  "version": "1.0.0",
+  "description": "This package can be used to attain a DrillPlan token from SLB's SAuth for a registered client.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzza3000/get-drillplan-token.git"
+  },
+  "keywords": [
+    "DrillPlan",
+    "DELFI",
+    "SLB"
+  ],
+  "author": "muzza3000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzza3000/get-drillplan-token/issues"
+  },
+  "homepage": "https://github.com/muzza3000/get-drillplan-token#readme"
+}
